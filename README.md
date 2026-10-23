@@ -1,5 +1,5 @@
 # Half-Life---Week-3-Music
-My project for week 2 of Half Life, designing a MIDI keyboard fit with a custom PCB design, switches, sliders, rotary encoders, neopixels, and capacitive touch
+My project for week 2 of Half Life, designing a MIDI keyboard fit with a custom PCB design, switches, sliders, rotary encoders, neopixels, and capacitive touch. This project overall went much faster and smoother than week 1 of designing a PCB, due to me already having the preexisting knowledge on the subject and some experience.
 <img width="1127" height="497" alt="Screenshot 2026-10-23 151813" src="https://github.com/user-attachments/assets/5e01bf2d-9f4c-4b65-a029-cad5c1e8452b" />
 <img width="586" height="688" alt="Screenshot 2026-10-23 150450" src="https://github.com/user-attachments/assets/5729cd27-7ec1-4588-bda1-d1d83ae39c3a" />
 <img width="662" height="692" alt="Screenshot 2026-10-23 150438" src="https://github.com/user-attachments/assets/55d982da-f0d8-449e-a349-344e4deefa32" />
