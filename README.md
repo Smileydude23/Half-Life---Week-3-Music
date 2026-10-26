@@ -1,6 +1,8 @@
 # Half-Life---Week-3-Music
 My project for week 2 of Half Life, designing a MIDI keyboard fit with a custom PCB design, switches, sliders, rotary encoders, neopixels, and capacitive touch. This project overall went much faster and smoother than week 1 of designing a PCB, due to me already having the preexisting knowledge on the subject and some experience.
+
 [![View PCB!](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/Smileydude23/Half-Life---Week-3-Music/tree/main)
+https://cad.onshape.com/documents/71ea753dc1abd63a800abe15/w/5a70a4849fe1ac86939683a1/e/898b23bd89df781c76d26549?renderMode=0&uiState=6adeb5b2ef25e90a82731d03
 <img width="1127" height="497" alt="Screenshot 2026-10-23 151813" src="https://github.com/user-attachments/assets/5e01bf2d-9f4c-4b65-a029-cad5c1e8452b" />
 <img width="586" height="688" alt="Screenshot 2026-10-23 150450" src="https://github.com/user-attachments/assets/5729cd27-7ec1-4588-bda1-d1d83ae39c3a" />
 <img width="662" height="692" alt="Screenshot 2026-10-23 150438" src="https://github.com/user-attachments/assets/55d982da-f0d8-449e-a349-344e4deefa32" />
